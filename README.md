@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**maribusquim/maribusquim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align = "center"> Olá 👋, sou Mariane </h1>
 <h3 align = "center"> Estou melhorando o front-end e me preparando para iniciar meu primeiro projeto, faço parte da o programa Edutech. </h3>
